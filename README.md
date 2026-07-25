@@ -14,15 +14,14 @@
 
 ---
 
-### 🔭 Currently working on
-- **Layerflow** — Shopify analytics SaaS (Next.js · Supabase · Trigger.dev · Recharts)
+### 🔭 Currently a 4th year Bacherlor of Science in Computer Science student
 
 ### 🛠️ Tech I reach for
-`TypeScript` `React` `Next.js` `Supabase / Postgres` `Tailwind` `Python` `Java`
+`JavaScript` `React` `Next.js` `Supabase / Postgres` `Tailwind` `Python` `Java` `Laravel` `PHP`
 
 ### 📫 Reach me
 [![Portfolio](https://img.shields.io/badge/Portfolio-4B5563?style=flat&logo=googlechrome&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
 
 ---
-<p align="center"><i>"Shipping quietly, debugging loudly."</i></p>
+<p align="center"><i>"Consistently inconsistent >-<."</i></p>
