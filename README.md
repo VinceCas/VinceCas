@@ -26,12 +26,4 @@
 <a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-Angular-red?style=flat&amp;logo=angular&amp;link=https://github.com/BRdhanani" alt="Angular"></a>
 <a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-NextJS-black?style=flat&amp;logo=nextjs&amp;link=https://github.com/BRdhanani" alt="NextJS"></a>
 <a href="https://gitlab.com/BRdhanani"><img src="https://img.shields.io/badge/-MobX-gray?style=flat&amp;logo=mobx&amp;link=https://github.com/BRdhanani" alt="MobX"></a></p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=efefef&amp;bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
-</p>
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge">
-</p>
-<hr>
-<p>Credits: <a href="https://github.com/brdhanani">BRdhanani</a></p>
-<p>Last Edited on: 29/03/2021</p> 
+
