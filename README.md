@@ -1,24 +1,48 @@
+<h3 align="center">Hello! I’m Vincent, a Full Stack Developer from the Philippines 🇵🇭</h3>
 
-<h3 id="hello-im-brijesh-dhanani-a-full-stack-developer-from-india">Hello! I’m Vincent a Full Stack Developer from Philippines.</h3>
-<h3 id="portfolio-httpsbrdhananigithubio">Portfolio: <a href="https://brdhanani.github.io">https://vincent-casuga.netlify.app</a></h3>
-<br>
-<br>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
-<h3 id="-languages-and-tools">👨‍💻 Languages and Tools</h3>
-<br>
-<p><a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat&amp;logo=javascript&amp;link=https://github.com/BRdhanani" alt="JavaScript"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white&amp;link=https://github.com/BRdhanani" alt="HTML5"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&amp;logo=css3&amp;link=https://github.com/BRdhanani" alt="CSS3"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&amp;logo=bootstrap&amp;link=https://github.com/BRdhanani" alt="Bootstrap"></a></p>
-<p><a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-React-black?style=flat&amp;logo=react&amp;link=https://github.com/BRdhanani" alt="React"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-Electron-gray?style=flat&amp;logo=electron&amp;link=https://github.com/BRdhanani" alt="Electron"></a>
-<p><a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-Nodejs-green?style=flat&amp;logo=Node.js&amp;link=https://github.com/BRdhanani" alt="Nodejs"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-json-02569B?style=flat&amp;logo=json&amp;link=https://github.com/BRdhanani" alt="JSON"></a></p>
-<p><a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-MySQL-black?style=flat&amp;logo=mysql&amp;link=https://github.com/BRdhanani" alt="MySQL"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-Git-black?style=flat&amp;logo=git&amp;link=https://github.com/BRdhanani" alt="Git"></a>
-<a href="https://gitlab.com/BRdhanani"><img src="https://img.shields.io/badge/-MongoDB-FCA121?style=flat&amp;logo=mongodb&amp;link=https://github.com/BRdhanani" alt="MongoDB"></a></p>
-<p><a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-TypeScript-white?style=flat&amp;logo=typescript&amp;link=https://github.com/BRdhanani" alt="Typescript"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-NextJS-black?style=flat&amp;logo=nextjs&amp;link=https://github.com/BRdhanani" alt="NextJS"></a>
-<img src="https://img.shields.io/badge/-Laravel-lightgrey?style=flat&logo=laravel" alt="">
+<p align="center">
+  <a href="https://vincent-casuga.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat" alt="Portfolio">
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Coding GIF" width="350">
+</p>
 
+<h3 align="center">Languages and Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3">
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" alt="Bootstrap">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron" alt="Electron">
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" alt="Node.js">
+  <img src="https://img.shields.io/badge/-JSON-02569B?style=flat&logo=json" alt="JSON">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql" alt="MySQL">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js" alt="Next.js">
+  <img src="https://img.shields.io/badge/-Laravel-lightgrey?style=flat&logo=laravel" alt="Laravel">
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase" alt="Supabase">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Godot-blue?style=flat&logo=godot" alt="Godot">
+  <img src="https://img.shields.io/badge/-Python-yellow?style=flat&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/-C%23-informational?style=flat&logo=csharp" alt="C#">
+  <img src="https://img.shields.io/badge/-Figma-inactive?style=flat&logo=figma" alt="Figma">
+</p>
